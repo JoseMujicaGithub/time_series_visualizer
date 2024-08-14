@@ -1,0 +1,1 @@
+For this Python project, you have 3 charts to select from a menu, a line plot, a bar plot, and a box plot, all these charts are customized to meet the standard wanted, and the used data is from a CSV with the FreeCodeCamp forum page views.
